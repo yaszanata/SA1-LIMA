@@ -1,8 +1,0 @@
-https://pub-1ef8ac0927134584ad7418df83ae2796.r2.dev/img/logo-escola-futuro.png
-https://pub-1ef8ac0927134584ad7418df83ae2796.r2.dev/img/escola-futuro.jpg 
-https://pub-1ef8ac0927134584ad7418df83ae2796.r2.dev/img/curso-desenvolvimento-sistemas.jpg
-https://pub-1ef8ac0927134584ad7418df83ae2796.r2.dev/img/curso-automacao-robotica.jpg 
-https://pub-1ef8ac0927134584ad7418df83ae2796.r2.dev/img/curso-ia-dados.jpg
-https://pub-1ef8ac0927134584ad7418df83ae2796.r2.dev/img/ambiente-lab-software.jpg 
-https://pub-1ef8ac0927134584ad7418df83ae2796.r2.dev/img/ambiente-lab-maker.jpg 
-https://pub-1ef8ac0927134584ad7418df83ae2796.r2.dev/img/ambiente-projetos.jpg 
