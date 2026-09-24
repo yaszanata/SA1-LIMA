@@ -1,0 +1,19 @@
+p {
+    font-size: 20px;
+}
+
+li {
+    font-size: 20px;
+}
+
+h4 {
+    color: #065F46;
+}
+
+#conhecimentos {
+    list-style-type: circle;
+}
+
+.listas {
+    list-style-type: upper-roman;
+}

@@ -1,0 +1,16 @@
+p {
+    font-size: 20px;
+}
+
+li {
+    font-size: 20px;
+}
+
+h4 {
+    color: #065F46;
+}
+
+
+.ambientes {
+    list-style-type: upper-roman;
+}
